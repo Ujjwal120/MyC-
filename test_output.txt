@@ -1,0 +1,201 @@
+100
+2 3
+bb
+2 5
+dd
+3 5
+aab
+4 2
+bbab
+5 2
+aabaa
+6 2
+abbaba
+6 3
+cbbaca
+3 4
+bab
+8 4
+adacbbdd
+6 5
+dbaacd
+3 1
+aaa
+7 1
+aaaaaaa
+5 5
+deeba
+7 2
+baababb
+3 4
+cbb
+2 1
+aa
+1 1
+a
+3 4
+cbb
+5 3
+aacaa
+1 2
+a
+2 2
+bb
+8 5
+bcaabeba
+4 2
+bbbb
+2 4
+bb
+2 4
+ba
+7 2
+aabaaba
+8 1
+aaaaaaaa
+7 2
+aaaabab
+5 5
+beded
+3 1
+aaa
+1 4
+a
+4 3
+aacb
+3 5
+bab
+1 5
+e
+5 4
+daaab
+6 3
+abaaba
+3 4
+aac
+3 1
+aaa
+6 4
+bbacca
+7 5
+acdbadb
+8 3
+acaacbcc
+2 5
+ce
+1 2
+a
+3 2
+bbb
+5 3
+ccccc
+4 5
+bdbe
+8 4
+cbcbacbb
+1 3
+c
+3 2
+bab
+1 3
+c
+4 5
+ebca
+5 4
+bddda
+8 5
+ecbedacb
+7 1
+aaaaaaa
+8 2
+bbbbbaaa
+2 4
+ab
+7 2
+abaaabb
+8 1
+aaaaaaaa
+3 1
+aaa
+2 5
+cd
+3 3
+cac
+3 1
+aaa
+1 5
+e
+5 5
+daccd
+2 4
+cd
+5 3
+caccb
+3 5
+cad
+5 4
+abbda
+2 4
+bd
+5 3
+cccbc
+1 4
+c
+7 1
+aaaaaaa
+7 1
+aaaaaaa
+3 3
+bcb
+2 2
+aa
+1 5
+c
+1 3
+b
+7 1
+aaaaaaa
+5 5
+cbacc
+3 1
+aaa
+8 1
+aaaaaaaa
+1 1
+a
+5 1
+aaaaa
+2 1
+aa
+5 4
+adcba
+2 4
+cb
+8 3
+aabcbbca
+5 4
+dbcaa
+2 5
+aa
+8 5
+abcadabb
+3 3
+aba
+8 5
+bbccccba
+2 4
+bb
+6 5
+cbadce
+7 5
+ccecdcd
+8 1
+aaaaaaaa
+6 1
+aaaaaa
+6 4
+ccdbbc
+6 5
+bdbacd
+2 1
+aa

@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "bitset": "cpp",
+        "ratio": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "istream": "cpp"
+    },
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "restructuredtext.confPath": "",
+    "restructuredtext.languageServer.disabled": true
+}
